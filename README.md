@@ -1,6 +1,10 @@
 
 # Stress-test-git-2
 
+
+=======
+
+
 # H1
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. 
 ## H2
@@ -10,12 +14,19 @@ In 2002 Aaron Swartz created atx, "the true structured text format". Swartz and 
 ##### H
 ###### H6
 
+
+=======
 This is a test
 ######H6
 =======
-This is a test???
 
->>>>>>> 76e9ee4889b09586bf39da2d2ba9e26a3cec4a37
+This is a test???
+=======
+
+MERRY XMAS
+
+
+
 * Fruit
   * Apple
   * Orange
@@ -34,6 +45,7 @@ Samantha Tariq Hsia
 
 ![Image of GitHub](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg)
 ![gif of GitHub](https://hackernoon.com/hn-images/1*zm5NLjdhGd3VVTA2u-xEPg.gif)
+
 =======
 
 #Introduction
@@ -79,5 +91,7 @@ ___
 Underscores
 
 
+
+=======
 
 
