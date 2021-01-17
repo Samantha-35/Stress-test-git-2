@@ -9,8 +9,13 @@ Since the initial description of Markdown contained ambiguities and unanswered q
 In 2002 Aaron Swartz created atx, "the true structured text format". Swartz and John Gruber then worked together to create the Markdown language in 2004, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)".
 ##### H5
 ###### H6
+<<<<<<< HEAD
 This is a test
 This is a second test just for fun
+=======
+This is a test???
+
+>>>>>>> 76e9ee4889b09586bf39da2d2ba9e26a3cec4a37
 * Fruit
   * Apple
   * Orange
