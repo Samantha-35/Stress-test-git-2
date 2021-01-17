@@ -55,5 +55,5 @@ Alt-H1
 1. Ceci est la première puce
 2. Ceci est la deuxième puce
 ..* Ceci est le sous-bouton
-..* Deuxième sous-bouton
-
+...* Deuxième sous-bouton
+....* Troisième sous-bouton
